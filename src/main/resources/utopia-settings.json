@@ -19,6 +19,11 @@
 			"selfSyntax":"Our police have been blessed with clear sight (for \\d{1,2} day|until the end of this day)"
 		},
 		{
+			"id":"Chast",
+			"name":"Chastity",
+			"targetSyntax":"Much to the chagrin of their men, the womenfolk of (?<province>.*\\)) have taken a vow of chastity for (?<duration>\\d{1,2}) days!"
+		},
+		{
 			"id":"FL",
 			"name":"Fertile Lands",
 			"selfSyntax":"We have made our lands extraordinarily fertile (for \\d{1,2} day|until the end of this day)"
